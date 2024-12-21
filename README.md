@@ -1,3 +1,3 @@
 # Swipe
-HTML, CSS and Javascript
-A full website focusing on swipe transactions.
+HTML, CSS and Javascript,
+A website focusing on transactions made on swipe.
